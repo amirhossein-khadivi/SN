@@ -1,23 +1,5 @@
 <html>
 
-<style>
-<p>   {align-text: center; font-family: "XB Niloofar"}
-</style>
-
-<body>
-
-<p style="text-align:center">
-
-هوالعالم
-
-</p>
-
-</body>
-
-</html>
-
-<html>
-
 <body>
 
 <style>
