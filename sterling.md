@@ -3,14 +3,9 @@
 <body>
 
 <style>
-h2    {background-color: #E5CCFF ; text-align: center ; color:#990000}
 h3    {background-color: #E5CCFF ; text-align: center ; color : #660000 ; font-size:135%}
 p     {direction: rtl; font-family: "XB Niloofar"}
-</style>
 
-<h2 style={font-family: "XB Niloofar">
-Sterling Number
-</h2>
 
 <h3 style={font-family: "XB Niloofar">
 <br>
